@@ -2,7 +2,7 @@
 
 This repository contains **interface screenshots** of the **Universal App**, a front-end application developed using **Next.js** and **Tailwind CSS**.
 
-The system is designed to support and streamline car cutting and dispatching operations with features including:
+The platform includes a full dashboard, role-based access, wallet management, and transaction tracking. It supports the full workflow from adding and categorizing cars, receiving them in the yard, cutting and containerizing, to dispatching and managing user wallets and transactions at each stage.
 
 - 🔐 Role-based user access
 - 🔔 Real-time notifications using WebSockets
